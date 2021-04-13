@@ -92,6 +92,7 @@ summary(best.model)
 anova(fullup,best.model)
 ```
 
+The P-value is 0.879 which means that there is not a significant difference between using all the model that has all of them vs. the model that only uses 2 variables. 
 
 # BREAM
 
